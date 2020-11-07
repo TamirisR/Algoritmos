@@ -1,4 +1,4 @@
-// Leia 5 números e exiba todos maiores que o 5º número digitado.Ex: 3 8 7 5 6Exibe na tela: 8 7
+// Leia 5 números e exiba todos maiores que o último número digitado.
 
 /*
 var cont, n1, n2, n3, n4, n5;
